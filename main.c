@@ -3,7 +3,7 @@
 int main() {
     int a ,b ,dif;
     scanf("%d%d",&a,&b);
-    sum = a - b;
+    dif = a - b;
     printf("%d\n", dif);
     return 0;
 }
